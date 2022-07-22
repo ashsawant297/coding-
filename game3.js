@@ -1,0 +1,10 @@
+$(function() {
+    $("#Enter").on('click', function(event) {    
+        var text = $("#text-field").val();
+        if (text.toLowerCase() === "nicki minaj" ) { 
+            alert("Correct");
+        } else {
+            alert("Sorry, the correct answer was nicki minaj");
+        }
+    });
+    });

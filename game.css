@@ -1,0 +1,14 @@
+body{
+    background-image: url("game_background.png");
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+
+ }
+
+ #artist {
+     position:absolute; top:0%; left:43%;
+ }
+
+ #ariana {
+     margin-top: 0px;
+ }
